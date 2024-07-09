@@ -40,7 +40,7 @@ public static void replace0with5(){
             answer=temp+(answer*10);
             num/=10;
         }
-        //called below function
+        //called below function to reverse the number
         answer=reverseTheNumber(answer);
         System.out.println(answer);
 
